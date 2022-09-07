@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+[CreateAssetMenu]
 public class BoolSO : ScriptableObject
 {
     public bool value;

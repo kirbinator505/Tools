@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+[CreateAssetMenu]
 public class FloatSO : ScriptableObject
 {
     public float value;

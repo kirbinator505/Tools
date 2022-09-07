@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+[CreateAssetMenu]
 public class IntSO : ScriptableObject
 {
     public int value;
